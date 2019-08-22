@@ -1,5 +1,5 @@
 @ECHO OFF
-REM First this batch will zip the IMD files
+
 
 
 REM set the path of 7z
