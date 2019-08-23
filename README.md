@@ -51,4 +51,10 @@ Optionally set the command line options for 7Zip. Currently, they are set as fol
 SET ZIPOPTIONS=-mm=BROTLI -mx=2 -mmt24
 ```
 
+### See also:
+
+https://github.com/nolanlab/cytof-backer-upper
+
+### Acknowledgements
+
 <b>Thanks to Samuel Granjeaud for some help improving the script!</b>
